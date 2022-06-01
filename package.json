@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://asouqi.github.io/pagination_demo",
+  "homepage":".",
   "dependencies": {
     "@manuscripts/assets": "^0.6.1",
     "@testing-library/jest-dom": "^5.16.4",
