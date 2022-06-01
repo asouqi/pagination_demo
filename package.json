@@ -5,10 +5,6 @@
   "homepage": "https://asouqi.github.io/pagination_demo",
   "dependencies": {
     "@manuscripts/assets": "^0.6.1",
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
-    "@testing-library/user-event": "^13.5.0",
-    "@types/jest": "^27.5.1",
     "@types/node": "^16.11.38",
     "@types/react": "^16.5.0",
     "@types/react-dom": "^16.5.0",
