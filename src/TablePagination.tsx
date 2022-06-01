@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import HorizontalEllipsis from '@manuscripts/assets/react/HorizontalEllipsis'
+import HorizontalEllipsis from './HorizontalEllipsis'
 import React, { useCallback, useMemo, useState } from 'react'
 import styled, { css } from 'styled-components'
 
