@@ -67,10 +67,9 @@ export const Container = styled.div<ContainerProps>`
   ${commonStyles}
 `
 
-type BorderedContainer = ContainerProps & {
+export const BorderedContainer = styled.div<ContainerProps & {
   smallPadding?: boolean
-}
-export const BorderedContainer = styled.div<BorderedContainer>`
+}>`
   border: 1px solid ${(props) => props.theme.colors.border.tertiary};
   border-radius: ${(props) => props.theme.grid.radius.default};
   padding: ${(props) =>
